@@ -1,5 +1,6 @@
 # sunstealer.krypta
 
+```code
 using System.Security.Cryptography;
 using System.Text;
 
@@ -40,3 +41,4 @@ namespace SunStealer
         }
     }
 }
+```
